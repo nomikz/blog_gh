@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jamstack on Nomi - Творческий уголок</title>
+    <link>http://localhost:1313/tags/jamstack/</link>
+    <description>Recent content in Jamstack on Nomi - Творческий уголок</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <managingEditor>nomikztop@gmail.com (Номи)</managingEditor>
+    <webMaster>nomikztop@gmail.com (Номи)</webMaster>
+    
+    <lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/jamstack/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Why I Moved to Hugo for My Static Site</title>
+      <link>http://localhost:1313/posts/privet/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <author>nomikztop@gmail.com (Номи)</author>
+      <guid>http://localhost:1313/posts/privet/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
