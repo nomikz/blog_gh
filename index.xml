@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nomi - Творческий уголок</title>
+    <title>Nomi - Уголок кринжа</title>
     <link>https://nomi.kz/</link>
-    <description>Recent content on Nomi - Творческий уголок</description>
+    <description>Recent content on Nomi - Уголок кринжа</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <managingEditor>nomikztop@gmail.com (Номи)</managingEditor>
@@ -12,7 +12,7 @@
     <lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://nomi.kz/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Hello, world</title>
+      <title>Кто я, что я и с чем меня кушать</title>
       <link>https://nomi.kz/posts/privet/</link>
       <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
       <author>nomikztop@gmail.com (Номи)</author>

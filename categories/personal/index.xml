@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Nomi - Уголок кринжа</title>
-    <link>https://nomi.kz/posts/</link>
-    <description>Recent content in Posts on Nomi - Уголок кринжа</description>
+    <title>Personal on Nomi - Уголок кринжа</title>
+    <link>https://nomi.kz/categories/personal/</link>
+    <description>Recent content in Personal on Nomi - Уголок кринжа</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <managingEditor>nomikztop@gmail.com (Номи)</managingEditor>
     <webMaster>nomikztop@gmail.com (Номи)</webMaster>
     
-    <lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://nomi.kz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://nomi.kz/categories/personal/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Кто я, что я и с чем меня кушать</title>
