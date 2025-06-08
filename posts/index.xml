@@ -9,14 +9,24 @@
     <managingEditor>nomikztop@gmail.com (Номи)</managingEditor>
     <webMaster>nomikztop@gmail.com (Номи)</webMaster>
     
-    <lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://nomi.kz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 May 2025 17:42:04 +0500</lastBuildDate><atom:link href="https://nomi.kz/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Must-Read книги</title>
+      <link>https://nomi.kz/posts/must-read-books/</link>
+      <pubDate>Sat, 31 May 2025 17:42:04 +0500</pubDate>
+      <author>nomikztop@gmail.com (Номи)</author>
+      <guid>https://nomi.kz/posts/must-read-books/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Кто я, что я и с чем меня кушать</title>
-      <link>https://nomi.kz/posts/privet/</link>
+      <link>https://nomi.kz/posts/about/</link>
       <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
       <author>nomikztop@gmail.com (Номи)</author>
-      <guid>https://nomi.kz/posts/privet/</guid>
+      <guid>https://nomi.kz/posts/about/</guid>
       <description></description>
       
     </item>
